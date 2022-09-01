@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<!-- - 🔭 I’m currently working on ... -->
+- 🤔 I have a [blog](https://zhuo-lingzhao.github.io)
+- 🌱 I’m currently learning PLT.
+
 <!--
 **wwdc14yh/wwdc14yh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
